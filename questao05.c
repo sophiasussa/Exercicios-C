@@ -28,8 +28,8 @@ int main(){
         x2 = (-b - sqrt(d))/(2*a);
         printf("Raizes: %lf, %lf", x1, x2);
     } else if (d = 0){
-        x1 = (-b/(2*a);
-        x2 = (-b/(2*a);
+        x1 = -b/(2*a);
+        x2 = -b/(2*a);
         printf("Raizes iguais: %lf, %lf", x1, x2);
     } else{
         printf("A equação não possui raízes reais");
